@@ -244,6 +244,15 @@ a:hover {
 }
 
 
+.profile-card-4 {
+    max-width: 1050px;
+    background-position: center;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+   
+}
+
 
 
 .MyVideo{
